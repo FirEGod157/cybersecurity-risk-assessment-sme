@@ -1,0 +1,5 @@
+Business,Threat,Likelihood,Impact,Exposure,Score,Level,Primary_Mitigation
+Retail SME,Ransomware,5,5,5,125,Critical,Offline backups + MFA + patching
+Retail SME,Phishing,5,4,4,80,High,Awareness + email filtering + MFA
+Professional Services,Insider threat,3,4,5,60,High,RBAC + logging + least privilege
+Small Manufacturer,Unpatched systems,4,4,3,48,High,Patch management + asset inventory
